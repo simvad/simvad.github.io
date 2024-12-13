@@ -1,0 +1,4 @@
+baseURL = 'simonvadsholt.dk'
+languageCode = 'en-us'
+title = 'Simon Vadsholt'
+theme = 'gruvbox-minimal'

@@ -1,0 +1,17 @@
+{{ define "main" }}
+<div class="home-content">
+    {{ .Content }}
+    
+    {{ $posts := where .Site.RegularPages "Type" "blog" }}
+    {{ if $posts }}
+    <h2>Recent Posts</h2>
+    {{ range first 5 $posts }}
+    <article>
+        <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+        <time>{{ .Date.Format "2006-01-02" }}</time>
+        {{ .Summary }}
+    </article>
+    {{ end }}
+    {{ end }}
+</div>
+{{ end }}
