@@ -20,5 +20,5 @@ weight = 30
 [[menus.main]]
 name = 'Esoteric Search Engines'
 pageRef = '/search-engines'
-weight = 30
+weight = 40
 
