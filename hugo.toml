@@ -1,4 +1,4 @@
-baseURL = 'simvad.github.io'
+baseURL = 'https://github.com/simvad/simvad.github.io/'
 languageCode = 'en-us'
 title = 'Simon Vadsholt'
 theme = 'gruvbox-minimal'
