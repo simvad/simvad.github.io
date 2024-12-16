@@ -1,6 +1,6 @@
-baseURL = 'https://example.org/'
+baseURL = 'simvad.github.io'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Simon Vadsholt'
 
 [[menus.main]]
 name = 'Home'
