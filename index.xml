@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on Simon Vadsholt</title>
+    <link>https://simonvadsholt.dk/</link>
+    <description>Recent content in Home on Simon Vadsholt</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://simonvadsholt.dk/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://simonvadsholt.dk/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://simonvadsholt.dk/about/</guid>
+      <description>My name is Simon Vadsholt, a recent graduate in Computer Science &amp;amp; Economics. Below are some of my interests and ongoing projects, all of which will hopefully be covered more fully on here at some point. If you&amp;rsquo;re in a postion to hire people to do cool things, take a look at my CV&#xA;Projects TabletopTunes TabletopTunes came to be because I got tired of juggling too many Youtube playlists of ambient mood music while running TTRPGs.</description>
+    </item>
+    <item>
+      <title>Esoteric Search Engines</title>
+      <link>https://simonvadsholt.dk/search-engines/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://simonvadsholt.dk/search-engines/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Green Hydrogen: The Economic Case For Being Less Efficient</title>
+      <link>https://simonvadsholt.dk/hydrogen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://simonvadsholt.dk/hydrogen/</guid>
+      <description>I. Multiple EU countries are currently making large investments in the production of green hydrogen. The argument often seems to consist of one or both of the following points1.&#xA;The transition away from fossil fuels is necessary, not only in energy systems (where we may be able to rely on renewables) but also in steel, fertilizer and other industries, where hydrocarbons seem to be an inexorable part of the chain. Renewable energy sources are intermittent, meaning that hydrogen can be used to seasonally stabilize grid load.</description>
+    </item>
+  </channel>
+</rss>
