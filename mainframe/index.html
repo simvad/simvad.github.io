@@ -31,7 +31,7 @@
  
 <li><a href="/about/">About</a></li>
  
-<li><a href="">Hydrogen</a></li>
+<li><a href="/mainframe/">Mainframe</a></li>
  
 <li><a href="/search-engines/">Esoteric Search</a></li>
  
@@ -49,7 +49,7 @@
 <h2 id="transaction-processing">Transaction processing</h2>
 <p>When you have familiarised yourself with the language of datasets composed of formatted records, aggregated into blocks, and physically allocated to cylinders or tracks, you can begin to write programs. A mainframe can run lots of different compilers, but as the batch- and transaction processing has been the thing drawing me to the mainframe, I have been mostly interested in JCL.</p>
 <p>On the face of it, JCL shouldn&rsquo;t be that difficult to learn given the remarkably small number of core statements. However, many of these accept dozens of different parameters, and the writing is further complicated by the column-specific syntax left over from the punch-card days.</p>
-<p>However, if you manage to write a correct JCL program, it can then be submitted using a SUBMIT command, whereafter the (often deeply verbose) result can be read from the spool. As long as your jobs are relatively few or simple, this works fine. However, in enterprise setups handling high-volume transaction, CICS is used as middleware, enabling  stuff like interactivity during job sequencing and easier debugging. CICS is under its own license and is therefore not available out of the box, when emulating MVS, but yet again <a href="https://github.com/moshix/kicks">hobbyists have come to the rescue</a>. This is touching the edges of my current knowledge of this stuff, but it also beautifully illustrates why I find it interesting. It should</p>
+<p>However, if you manage to write a correct JCL program, it can then be submitted using a SUBMIT command, whereafter the (often deeply verbose) result can be read from the spool. As long as your jobs are relatively few or simple, this works fine. However, in enterprise setups handling high-volume transaction, CICS is used as middleware, enabling  stuff like interactivity during job sequencing and easier debugging. CICS is under its own license and is therefore not available out of the box, when emulating MVS, but yet again <a href="https://github.com/moshix/kicks">hobbyists have come to the rescue</a>. This is touching the edges of my current knowledge of this stuff, but it also beautifully illustrates why I find it interesting.</p>
 <blockquote>
 <p><em>The astonishment which I had at first experienced on this discovery soon gave place to delight and rapture. After so much time spent in painful labour, to arrive at once at the summit of my desires, was the most gratifying consummation of my toils.</em></p>
 <p><!-- raw HTML omitted -->— Mary Shelley, Frankenstein<!-- raw HTML omitted --></p>
