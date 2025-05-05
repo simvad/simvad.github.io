@@ -76,6 +76,22 @@ a:hover {
     padding-bottom: 1rem;
 }
 
+blockquote {
+    border-left: 3px solid var(--accent);
+    padding-left: 1rem;
+    margin-left: 0;
+    font-style: italic;
+    color: var(--fg-dim);
+}
+
+blockquote footer, 
+blockquote cite {
+    text-align: right;
+    display: block;
+    font-style: normal;
+    margin-top: 0.5rem;
+}
+
 /* Responsive adjustments for smaller screens */
 @media (max-width: 768px) {
     .container {
