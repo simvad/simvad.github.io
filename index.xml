@@ -23,11 +23,11 @@
       <description>The web was built for serendipity. Yet as the digital garden has become a shopping mall, those delightful moments of stumbling upon exactly what you needed (or didn&amp;rsquo;t know you needed) are fading. Here, I&amp;rsquo;ve gathered a few search engines that still enable digital serendipity.&amp;quot;&#xA;Marginalia search.marginalia.nu/ is probably the entry on this list closest to a standard search engine, the big difference being the exclusion of commercial sites. This leads to search results consisting of passion rather than profit motive.</description>
     </item>
     <item>
-      <title>Green Hydrogen: The Economic Case For Being Less Efficient</title>
-      <link>https://simonvadsholt.dk/hydrogen/</link>
+      <title>mainframe</title>
+      <link>https://simonvadsholt.dk/mainframe/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://simonvadsholt.dk/hydrogen/</guid>
-      <description>Multiple EU countries are currently making large investments in the production of green hydrogen. The argument often seems to consist of one or both of the following points1.&#xA;The transition away from fossil fuels is necessary, not only in energy systems (where we may be able to rely on renewables) but also in steel, fertilizer and other industries, where hydrocarbons seem to be an inexorable part of the chain. Renewable energy sources are intermittent, meaning that hydrogen can be used to seasonally stabilize grid load.</description>
+      <guid>https://simonvadsholt.dk/mainframe/</guid>
+      <description>Since learning that mainframes are still very much in use in financial IT, where throughput and availability are paramount, I have taken an interest in the work on those machines. As few hobbyists have access to their own mainframe, such an interest also necessarily involves the work of emulating a markedly different machine architecture on your personal computer and getting an OS very much of the 70s running on it. In the modern world where there is a 5-step Medium.</description>
     </item>
   </channel>
 </rss>
