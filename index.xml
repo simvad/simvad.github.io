@@ -16,18 +16,18 @@
       <description>My name is Simon Vadsholt, a recent graduate in Computer Science &amp;amp; Economics. Below are some of my interests and ongoing projects, all of which will hopefully be covered more fully on here at some point. If you&amp;rsquo;re in a postion to hire people to do cool things, take a look at my CV&#xA;Projects TabletopTunes TabletopTunes came to be because I got tired of juggling too many Youtube playlists of ambient mood music while running TTRPGs.</description>
     </item>
     <item>
-      <title>Esoteric Search Engines</title>
-      <link>https://simonvadsholt.dk/search-engines/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://simonvadsholt.dk/search-engines/</guid>
-      <description>The web was built for serendipity. Yet as the digital garden has become a shopping mall, those delightful moments of stumbling upon exactly what you needed (or didn&amp;rsquo;t know you needed) are fading. Here, I&amp;rsquo;ve gathered a few search engines that still enable digital serendipity.&amp;quot;&#xA;Marginalia search.marginalia.nu/ is probably the entry on this list closest to a standard search engine, the big difference being the exclusion of commercial sites. This leads to search results consisting of passion rather than profit motive.</description>
-    </item>
-    <item>
       <title>Meditations on the mainframe</title>
       <link>https://simonvadsholt.dk/mainframe/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://simonvadsholt.dk/mainframe/</guid>
       <description>Since learning that mainframes are still very much in use in financial IT, where throughput and availability are paramount, I have taken an interest in the work on those machines. As few hobbyists have access to their own mainframe, such an interest also necessarily involves the work of emulating a markedly different machine architecture on your personal computer and getting an OS very much of the 70s running on it. In the modern world where there is a 5-step Medium.</description>
+    </item>
+    <item>
+      <title>Obscure Search Engines</title>
+      <link>https://simonvadsholt.dk/search-engines/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://simonvadsholt.dk/search-engines/</guid>
+      <description>The web was built for serendipity. Yet as the digital garden has become a shopping mall, those delightful moments of stumbling upon exactly what you needed (or didn&amp;rsquo;t know you needed) are fading. Here, I&amp;rsquo;ve gathered a few search engines that still enable digital serendipity.&#xA;Marginalia search.marginalia.nu is probably the entry on this list closest to a standard search engine, the big difference being the exclusion of commercial sites. This leads to search results consisting of passion rather than profit motive.</description>
     </item>
   </channel>
 </rss>
