@@ -1,0 +1,26 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+
+[markup.goldmark.renderer]
+  unsafe = true
+
+[[menus.main]]
+name = 'Home'
+pageRef = '/'
+weight = 10
+
+[[menus.main]]
+name = 'About'
+pageRef = '/about'
+weight = 20
+
+[[menus.main]]
+name = 'Mainframe'
+pageRef = '/mainframe'
+weight = 30
+
+[[menus.main]]
+name = 'Obscure Search'
+pageRef = '/search-engines'
+weight = 40
